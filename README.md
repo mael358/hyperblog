@@ -8,4 +8,6 @@ Les recomiendo totalmente aprender Git, sirve más de lo que uno piensa.
 
 Invertir en educación es de las mejores inversiones que puedes hacer.
 
+Entonces.... ¿Qué esperas?
+
 > **Nunca pares de aprender.**
