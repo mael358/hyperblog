@@ -6,4 +6,6 @@ Espero poder seguir usando esta poderosa herramienta de programación.
 
 Les recomiendo totalmente aprender Git, sirve más de lo que uno piensa.
 
+Invertir en educación es de las mejores inversiones que puedes hacer.
+
 > **Nunca pares de aprender.**
