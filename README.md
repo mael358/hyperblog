@@ -6,11 +6,8 @@ Espero poder seguir usando esta poderosa herramienta de programación.
 
 Les recomiendo totalmente aprender Git, sirve más de lo que uno piensa.
 
-<<<<<<< HEAD
-=======
 Invertir en educación es de las mejores inversiones que puedes hacer.
 
 Entonces.... ¿Qué esperas?
 
->>>>>>> readme-mejorado
 > **Nunca pares de aprender.**
